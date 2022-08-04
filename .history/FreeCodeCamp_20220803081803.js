@@ -1,0 +1,3 @@
+const myStr = "Vu Van cuong learning JS";
+
+i

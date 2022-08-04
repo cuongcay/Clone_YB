@@ -1,1 +1,0 @@
-const search_input = document.getElementById
